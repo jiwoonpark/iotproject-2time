@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 #confirm{
     
 }
+=======
+table, td{
+    border: 1px solid black;
+    padding: 5px;
+    
+}
+td{
+    text-align: center;
+    
+}
+>>>>>>> css로연결
